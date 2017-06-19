@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Test Plan Generator",
+        "startTime": "03-2017",
+        "endTime": "",
+        "role": "Developer",
+        "type": "project",
+        "description": "QA automation tool that generates an Excel test plan out of a Microsoft Visio 2013 file.",
+        "tools": "C#, WPF, Visual Studio, TFS, Trello, Microsoft Visio, Microsoft Excel",
+        "image": ""
+    },
+    {
+        "name": "Portal Data Seeder",
+        "startTime": "11-2016",
+        "endTime": "01-2017",
+        "role": "Developer",
+        "type": "project",
+        "description": "QA helper tool",
+        "tools": "",
+        "image": ""
+    },
+    {
+        "name": "Selectron Technologies, Inc.",
+        "startTime": "11-2016",
+        "endTime": "",
+        "role": "Entry Level Developer",
+        "type": "work",
+        "description": "",
+        "tools": "",
+        "image": ""
+    },
+    {
+        "name": "JS Keycodes",
+        "startTime": "07-2016",
+        "endTime": "11-2016",
+        "role": "Developer",
+        "type": "project",
+        "description": "",
+        "tools": "",
+        "image": ""
+    },    
+    {
+        "name": "Jeld-Wen",
+        "startTime": "11-2015",
+        "endTime": "06-2016",
+        "role": "Quality Assurance Intern",
+        "type": "work",
+        "description": "",
+        "tools": "",
+        "image": ""
+    },    
+    {
+        "name": "Time Defender",
+        "startTime": "09-2014",
+        "endTime": "06-2015",
+        "role": "Developer",
+        "type": "school",
+        "description": "",
+        "tools": "",
+        "image": ""
+    },    
+    {
+        "name": "Blackjack with Love",
+        "startTime": "07-2015",
+        "endTime": "08-2015",
+        "role": "Developer",
+        "type": "school",
+        "description": "",
+        "tools": "",
+        "image": ""
+    }
+]

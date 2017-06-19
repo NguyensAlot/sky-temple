@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Anthony Nguyen</title>
+    <script src="assets/lib/angular.min.js"></script>
+    <script src="app/app.module.js"></script>
+    <link rel="stylesheet" src="assets/lib/bootstrap.min.js"></link>
+</head>
+
+<body ng-app="sky-temple">
+    <div ng-controller="sky-temple-controller">
+        <div ng-repeat="item in historyList">
+            <h1>{{item.name}}</h1>
+        </div>
+    </div>
+</body>
+
+</html>
